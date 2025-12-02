@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Isabella!
 
-<!--
-**bellawkin/bellawkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a wildlife ecology graduate using code to explore fungi, soil systems, sound and landscape patterns.
 
-Here are some ideas to get you started:
+My interests and skills include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍄 Fungal ecology & datasets
+
+🌱 Soil health & horticulture
+
+🎧 Interested in pursuing acoustic biosensing technology
+
+🗺️ QGIS mapping projects
+
+📊 Light data analysis workflows
+
+💭🐍  Currently learning Python for data + ecology
+
+📷 Wildlife & foraging [photography](www.instagram.com/belllawk) 
+
